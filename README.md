@@ -104,3 +104,13 @@ Entre las principales líneas de mejora futura se encuentran:
 ## Autor
 
 **Jaime Eduardo Blanco**
+## Capturas del proyecto
+
+### Página principal
+![Página principal de Mateo Legal Guatemala](images/P%C3%A1gina%20principal%20de%20Mateo%20Legal%20Guatemala.png)
+
+### Ejemplo de respuesta – parte 1
+![Ejemplo de respuesta parte 1](images/Ejemplo%20respuesta%20parte%201.png)
+
+### Ejemplo de respuesta – parte 2
+![Ejemplo de respuesta parte 2](images/Ejemplo%20de%20respuesta%20parte%202.png)
